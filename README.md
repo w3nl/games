@@ -11,7 +11,7 @@ An overview of the public games by Pieter Wigboldus, with a link to play each ga
 | Het Geheim van de Albertsmaheert | https://albertsmaheert.nl/escaperoom/ | [w3nl/albertsmaheert](https://github.com/w3nl/albertsmaheert) |
 | TunnelVue | https://tunnelvue.nl/ | [w3nl/tunnelvue](https://github.com/w3nl/tunnelvue) |
 
-All six are web apps (installable, playable offline). TripScouts is also a Linux app (a snap: [download](https://github.com/w3nl/tripscouts/releases/download/linux/tripscouts.snap), soon in the Snap Store) and an Android app, now in testing on Google Play: join the test [on the web](https://play.google.com/apps/testing/nl.w3nl.cabinweek) or [on Android](https://play.google.com/store/apps/details?id=nl.w3nl.cabinweek).
+All six are web apps (installable, playable offline). TripScouts is also a Linux app (a snap: [download](https://github.com/w3nl/tripscouts/releases/latest/download/tripscouts.snap), soon in the Snap Store) and an Android app, now in testing on Google Play: join the test [on the web](https://play.google.com/apps/testing/nl.w3nl.cabinweek) or [on Android](https://play.google.com/store/apps/details?id=nl.w3nl.cabinweek).
 
 Private games are not listed here.
 
