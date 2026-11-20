@@ -24,7 +24,7 @@ Private games are not listed here.
 
 ## Adding a game
 
-1. Copy its app icon into `icons/` (an SVG if the game has one).
+1. Copy its app icon into `icons/` (an SVG if the game has one, otherwise its 192 px PNG).
 2. Copy an `<article class="game">` in `index.html` and fill in the name, the kind of game, a few sentences, the languages, the play link and the code link. Leave out the code link if the code is not public. `--accent` is the colour of the line on top of the card.
 3. Add the game to the table above.
 
