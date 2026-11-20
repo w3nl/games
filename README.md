@@ -1,6 +1,6 @@
-# Games
+# Pieter Wigboldus Games
 
-An overview of the public games by w3nl, with a link to play each game and a link to its code. One static page for GitHub Pages: plain HTML and CSS, no build.
+An overview of the public games by Pieter Wigboldus, with a link to play each game and a link to its code. One static page for GitHub Pages: plain HTML and CSS, no build.
 
 | Game | Play | Code |
 |---|---|---|
