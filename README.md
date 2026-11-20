@@ -4,7 +4,7 @@ An overview of the public games by Pieter Wigboldus, with a link to play each ga
 
 | Game | Play | Code |
 |---|---|---|
-| TripScouts | https://tripscouts.online/ | [w3nl/cabin-week](https://github.com/w3nl/cabin-week) |
+| TripScouts | https://tripscouts.online/ | [w3nl/tripscouts](https://github.com/w3nl/tripscouts) |
 | Villa Villekulla: Locked In with Mr Nilsson | https://kakelbont.online/ | [w3nl/pippi](https://github.com/w3nl/pippi) |
 | Sinterklaas: Het Grote Pakjesavontuur | https://5december.online/ | [w3nl/sinterklaas](https://github.com/w3nl/sinterklaas) |
 | Hello, IT: The Basement Lockdown | https://w3nl.github.io/it/ | [w3nl/it](https://github.com/w3nl/it) |
