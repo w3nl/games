@@ -54,12 +54,12 @@ h1 { margin: 4px 0 10px; font: 700 clamp(40px, 8vw, 64px)/1 Fredoka, sans-serif;
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; }
 .tags span { padding: 2px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); font-size: 13px; font-weight: 600; }
 .tags .app { border-color: var(--accent, var(--gold)); color: var(--text); }
-.android { grid-column: 1 / -1; margin: -4px 0 0; color: var(--muted); font-size: 14px; }
+.android { flex: 1 0 100%; margin: 4px 0 0; color: var(--muted); font-size: 14px; }
 .android a { color: var(--text); font-weight: 800; }
 .android a:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; border-radius: 4px; }
 
-.links { grid-area: links; display: flex; gap: 10px; align-items: center; }
-.links a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 20px; border-radius: 999px; font: 600 16px Fredoka, sans-serif; text-decoration: none; }
+.links { grid-area: links; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.links > a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 0 20px; border-radius: 999px; font: 600 16px Fredoka, sans-serif; text-decoration: none; }
 .play { background: var(--gold); color: var(--on-gold); }
 .play:hover { filter: brightness(1.06); }
 .code { border: 2px solid var(--line); }
@@ -72,5 +72,5 @@ h1 { margin: 4px 0 10px; font: 700 clamp(40px, 8vw, 64px)/1 Fredoka, sans-serif;
   .top { padding-top: 36px; }
   .game { grid-template-columns: 56px minmax(0, 1fr); padding: 16px; }
   .icon { width: 56px; height: 56px; border-radius: 14px; }
-  .links a { flex: 1; }
+  .links > a { flex: 1; }
 }
