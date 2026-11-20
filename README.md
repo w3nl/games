@@ -11,6 +11,8 @@ An overview of the public games by w3nl, with a link to play each game and a lin
 | Het Geheim van de Albertsmaheert | https://albertsmaheert.nl/escaperoom/ | [w3nl/albertsmaheert](https://github.com/w3nl/albertsmaheert) |
 | TunnelVue | https://tunnelvue.nl/ | [w3nl/tunnelvue](https://github.com/w3nl/tunnelvue) |
 
+All six are web apps (installable, playable offline). Cabin Week is also an Android app, now in testing on Google Play: join the test [on the web](https://play.google.com/apps/testing/nl.w3nl.cabinweek) or [on Android](https://play.google.com/store/apps/details?id=nl.w3nl.cabinweek).
+
 Private games are not listed here.
 
 ## Files
