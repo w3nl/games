@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="ic-sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b1631"/>
+      <stop offset="1" stop-color="#3d5f99"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#ic-sky)"/>
+  <circle cx="186" cy="112" r="44" fill="#f7f3dc"/>
+  <circle cx="204" cy="100" r="40" fill="#14244a"/>
+  <path d="M0 360 Q128 290 256 330 T512 320 V512 H0Z" fill="#a8bfe0"/>
+  <g fill="#1f4152" stroke="#0f2230" stroke-width="6" stroke-linejoin="round">
+    <path d="M96 380 L150 380 L123 300Z"/><path d="M90 340 L156 340 L123 250Z"/><path d="M100 300 L146 300 L123 210Z"/>
+  </g>
+  <!-- A log cabin with a chimney -->
+  <path d="M362 226 V158 H396 V258Z" fill="#6b4a3a" stroke="#1e1622" stroke-width="8" stroke-linejoin="round"/>
+  <g fill="none" stroke="#dfe8f4" stroke-width="10" stroke-linecap="round" opacity=".75">
+    <path d="M379 146 Q360 128 384 110 T378 72"/>
+  </g>
+  <g stroke="#1e1622" stroke-width="8" stroke-linejoin="round">
+    <rect x="232" y="268" width="176" height="150" fill="#9a6338"/>
+  </g>
+  <g stroke="#6e4224" stroke-width="5">
+    <path d="M236 298 H404 M236 328 H404 M236 358 H404 M236 388 H404"/>
+  </g>
+  <g stroke="#1e1622" stroke-width="8" stroke-linejoin="round">
+    <path d="M214 272 L320 170 L426 272Z" fill="#4a2f22"/>
+    <rect x="300" y="340" width="40" height="78" fill="#ffd27a"/>
+    <rect x="252" y="296" width="36" height="40" fill="#ffd27a"/>
+    <rect x="352" y="296" width="36" height="40" fill="#ffd27a"/>
+  </g>
+  <path d="M206 276 L320 166 L434 276 L412 276 L320 190 L228 276Z" fill="#f4f8ff"/>
+  <path d="M0 430 Q140 400 256 420 T512 410 V512 H0Z" fill="#f4f8ff"/>
+  <g fill="#ffffff"><circle cx="60" cy="80" r="5"/><circle cx="300" cy="64" r="4"/><circle cx="270" cy="120" r="5"/><circle cx="470" cy="210" r="4"/><circle cx="40" cy="220" r="4"/></g>
+</svg>
