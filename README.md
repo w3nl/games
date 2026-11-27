@@ -5,10 +5,10 @@ An overview of the public games by Pieter Wigboldus, with a link to play each ga
 | Game | Play | Code |
 |---|---|---|
 | TripScouts | https://tripscouts.online/ | [w3nl/tripscouts](https://github.com/w3nl/tripscouts) |
+| Het Geheim van de Albertsmaheert | https://albertsmaheert.nl/escaperoom/ | [w3nl/albertsmaheert](https://github.com/w3nl/albertsmaheert) |
 | Villa Villekulla: Locked In with Mr Nilsson | https://kakelbont.online/ | [w3nl/pippi](https://github.com/w3nl/pippi) |
 | Sinterklaas: Het Grote Pakjesavontuur | https://5december.online/ | [w3nl/sinterklaas](https://github.com/w3nl/sinterklaas) |
 | Hello, IT: The Basement Lockdown | https://w3nl.github.io/it/ | [w3nl/it](https://github.com/w3nl/it) |
-| Het Geheim van de Albertsmaheert | https://albertsmaheert.nl/escaperoom/ | [w3nl/albertsmaheert](https://github.com/w3nl/albertsmaheert) |
 | TunnelVue | https://tunnelvue.nl/ | [w3nl/tunnelvue](https://github.com/w3nl/tunnelvue) |
 
 All six are web apps (installable, playable offline). TripScouts is also a Linux app (in the [Snap Store](https://snapcraft.io/tripscouts): `sudo snap install tripscouts`), an Android app, now in testing on Google Play: join the test [on the web](https://play.google.com/apps/testing/nl.w3nl.cabinweek) or [on Android](https://play.google.com/store/apps/details?id=nl.w3nl.cabinweek), and a Chrome app (for Chrome on a computer or a Chromebook) in the [Chrome Web Store](https://chrome.google.com/webstore/detail/pcpdooenjphohflgmclkpachhfonjokc).
